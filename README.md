@@ -36,3 +36,4 @@ make
 **Авторы:**
 - **Кохнович** — UML-спецификация, модули db.c, sale.c, report.c, CI, unit-тесты
 - **Видук** — UML-спецификация, модули auth.c, cd.c, main.c, отчёты, SQL-запросы
+Ссылка на отчет https://docs.google.com/document/d/1fQMrQ4fTyU6oZZdevGnDVppruLfVGhlKfbghWyO7XHc/edit?tab=t.0
